@@ -1,0 +1,7 @@
+numpy
+sounddevice
+miniaudio
+soundfile
+keyboard
+pystray
+pillow

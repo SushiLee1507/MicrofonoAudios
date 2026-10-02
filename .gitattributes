@@ -1,0 +1,2 @@
+# Iniciar.bat necesita finales de linea de Windows
+*.bat text eol=crlf
